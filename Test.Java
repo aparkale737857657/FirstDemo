@@ -4,6 +4,7 @@ class A{
         System.out.println("Hello");
         System.out.println("World");
         System.out.println("No");
+         System.out.println("New changes");
 
     }
 }
